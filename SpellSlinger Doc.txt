@@ -1,0 +1,21 @@
+SPELLSLINGER 2.0
+Summary:
+A fast-paced 2D arena shooter where you play as a highly-mobile wizard with massively-powerful spells at their disposal. This game is designed with the keyboard and mouse in mind as its primary control type, with the design goal of the game being largely about creating a great-feeling movement and combat system for this input device. Play as a floaty, fast-moving mage that shoots spells with reckless abandon to destroy the dark forces while mastering the art of spellslinging.
+
+Controls:
+Left Click- Spellshot (Chargeable projectile attack)
+Right Click- Special Spell (One of various elemental spells)
+Mouse Wheel- Choose Spell (changes the right-click spell)
+W- Jump/Float
+A/D- Move Left/Right (has low friction but high acceleration/traction)
+S- Crouch (grants increased friction and charges left/right movement)
+Space- Blink (quick teleport over a short distance; press while holding a direction to go that way)
+Shift- Shield (protects user and reflects projectiles one first few frames; reduces the user's gravity and/or halts their momentum)
+
+Special Spells:
+Magic Missiles- constantly fire off small projectiles that home in on the mouse position and have slightly-randomized trajectories
+Line of Fire- Constantly conjure small flames at the mouse position that fall to the ground and deal constant damage while in contact with a foe
+Flash Freeze- Instantly freeze all enemies within a circular area around the cursor; hold the right mouse button to increase the effect radius
+Thunderstrike- Instantly deal massive damage to all enemies in a vertical line at the position of the mouse; cannot go through platforms below the cursor
+Warp Self- Instantly teleport to a spot on the map where the cursor is at; any enemies in the area are warped to your original position
+Gravity Well- Draw in enemies and deal minor consistent damage to those in a small radius around the position of the cursor; holding the right mouse button causes the area of effect to slowly grow to a set size
